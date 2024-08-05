@@ -1,0 +1,15 @@
+RNF:
+- Logo
+- Fontes (todas)
+- Símbolos de navegação
+- Espaçamento entre as Thumbnails
+- Thumbnails
+- Cores do site
+- Espaçamento geral
+
+RF:
+- Thumbnails
+- Navegação pela barra
+- Pesquisa
+- Seu Canal
+- Botão Home
